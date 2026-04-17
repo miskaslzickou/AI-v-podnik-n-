@@ -8,7 +8,7 @@
   </header>
 
   <main>
-  
+  <h1>zde dáváte text</h1>
   </main>
 </template>
 
