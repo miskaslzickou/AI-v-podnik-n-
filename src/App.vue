@@ -1,5 +1,5 @@
 <script setup>
-//nazdar
+  // nazdar
 </script>
 
 <template>
